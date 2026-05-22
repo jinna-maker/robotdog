@@ -187,5 +187,5 @@ The goal of RoboDog v1 is to show that a young maker can turn a personal idea in
 ## Credits
 
 Created by **Jinna Arunplod**  
-AIT International School  
+Jinna Maker | Maker Hub   
 MakerWorld: `https://makerworld.com/en/@jinna.maker`
